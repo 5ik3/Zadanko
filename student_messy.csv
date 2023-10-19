@@ -1,0 +1,465 @@
+Student_id,Age,Gender,Grade,Employed
+1.0,19.0,Male,1st Class,yes
+2.0,20.0,Female,2nd Class,
+3.0,18.0,,,no
+4.0,21.0,Female,2nd Class,no
+5.0,19.0,Male,1st Class,no
+6.0,20.0,Male,2nd Class,yes
+7.0,19.0,Female,3rd Class,yes
+8.0,21.0,Male,3rd Class,yes
+9.0,22.0,,3rd Class,yes
+10.0,,Male,,no
+,20.0,Female,3rd Class,yes
+12.0,,Male,1st Class,no
+13.0,19.0,Male,,yes
+14.0,20.0,Female,3rd Class,no
+,19.0,Male,1st Class,yes
+16.0,19.0,Female,2nd Class,no
+17.0,20.0,Male,2nd Class,
+18.0,18.0,Female,3rd Class,no
+19.0,21.0,Male,2nd Class,yes
+20.0,19.0,Male,2nd Class,no
+21.0,,Female,3rd Class,yes
+22.0,,Male,2nd Class,no
+23.0,21.0,Female,2nd Class,yes
+24.0,22.0,Male,3rd Class,no
+25.0,21.0,Female,1st Class,no
+26.0,20.0,Male,2nd Class,no
+27.0,20.0,Male,3rd Class,no
+,19.0,Female,1st Class,no
+29.0,20.0,Male,3rd Class,no
+30.0,19.0,Male,1st Class,
+31.0,20.0,Female,2nd Class,no
+32.0,18.0,,1st Class,no
+33.0,21.0,Female,,no
+34.0,,Male,1st Class,no
+35.0,20.0,Male,,yes
+36.0,19.0,Female,3rd Class,yes
+37.0,,Male,3rd Class,yes
+38.0,22.0,Female,3rd Class,
+39.0,21.0,Male,1st Class,no
+40.0,20.0,Female,3rd Class,yes
+41.0,20.0,Male,1st Class,no
+42.0,19.0,Male,1st Class,yes
+43.0,20.0,Female,3rd Class,no
+44.0,19.0,Male,1st Class,yes
+,,,2nd Class,no
+46.0,20.0,Male,,
+47.0,18.0,Female,3rd Class,no
+,21.0,Male,2nd Class,yes
+49.0,19.0,,2nd Class,no
+50.0,20.0,,3rd Class,yes
+51.0,19.0,Male,2nd Class,no
+,21.0,Female,2nd Class,yes
+53.0,22.0,Male,3rd Class,no
+54.0,21.0,Female,1st Class,no
+55.0,20.0,Male,2nd Class,no
+56.0,20.0,Male,3rd Class,no
+57.0,19.0,Female,1st Class,no
+58.0,20.0,Male,3rd Class,no
+59.0,19.0,Male,1st Class,yes
+60.0,20.0,Female,2nd Class,no
+61.0,18.0,Male,1st Class,no
+62.0,,Female,,no
+63.0,19.0,Male,1st Class,no
+64.0,,Male,2nd Class,yes
+65.0,19.0,Female,3rd Class,yes
+66.0,21.0,Male,,yes
+67.0,22.0,,,yes
+68.0,,Male,1st Class,no
+69.0,,Female,3rd Class,yes
+70.0,20.0,Male,1st Class,no
+71.0,19.0,Male,1st Class,yes
+72.0,20.0,Female,3rd Class,no
+73.0,19.0,Male,1st Class,yes
+74.0,19.0,Female,2nd Class,
+75.0,20.0,Male,2nd Class,yes
+76.0,18.0,Female,3rd Class,no
+,21.0,Male,2nd Class,yes
+78.0,19.0,Male,2nd Class,no
+79.0,20.0,Female,3rd Class,yes
+80.0,19.0,Male,,no
+81.0,,Female,2nd Class,yes
+82.0,22.0,Male,3rd Class,no
+83.0,21.0,Female,1st Class,no
+84.0,20.0,Male,2nd Class,no
+85.0,20.0,Male,,no
+86.0,19.0,Female,1st Class,no
+87.0,20.0,Male,3rd Class,no
+88.0,19.0,Male,1st Class,yes
+89.0,20.0,Female,2nd Class,no
+90.0,18.0,Male,1st Class,no
+91.0,21.0,Female,2nd Class,no
+92.0,19.0,Male,1st Class,no
+93.0,20.0,Male,,yes
+,19.0,Female,3rd Class,yes
+95.0,,Male,3rd Class,yes
+96.0,22.0,Female,3rd Class,
+97.0,21.0,Male,1st Class,no
+98.0,20.0,Female,3rd Class,yes
+99.0,20.0,Male,1st Class,no
+,19.0,Male,1st Class,yes
+101.0,20.0,Female,3rd Class,no
+102.0,19.0,Male,1st Class,yes
+,19.0,Female,2nd Class,
+104.0,20.0,Male,2nd Class,
+105.0,18.0,Female,3rd Class,no
+106.0,21.0,Male,2nd Class,yes
+,19.0,,2nd Class,no
+108.0,20.0,Female,3rd Class,yes
+109.0,19.0,Male,2nd Class,no
+110.0,21.0,Female,2nd Class,yes
+111.0,22.0,Male,3rd Class,no
+,21.0,Female,1st Class,no
+113.0,20.0,Male,2nd Class,no
+114.0,,Male,3rd Class,no
+115.0,19.0,Female,1st Class,no
+116.0,20.0,Male,,no
+117.0,19.0,Male,,yes
+118.0,20.0,Female,2nd Class,
+119.0,18.0,,1st Class,no
+120.0,21.0,Female,2nd Class,no
+121.0,19.0,Male,1st Class,no
+122.0,20.0,Male,2nd Class,yes
+123.0,,Female,3rd Class,
+124.0,21.0,Male,3rd Class,yes
+125.0,22.0,,3rd Class,yes
+126.0,,Male,1st Class,no
+,20.0,Female,3rd Class,yes
+128.0,20.0,Male,1st Class,no
+129.0,19.0,Male,1st Class,yes
+130.0,20.0,Female,3rd Class,no
+131.0,19.0,,1st Class,yes
+132.0,19.0,Female,2nd Class,
+133.0,20.0,Male,2nd Class,yes
+134.0,18.0,,3rd Class,no
+135.0,,Male,2nd Class,yes
+136.0,19.0,Male,2nd Class,no
+137.0,20.0,Female,3rd Class,
+138.0,19.0,Male,2nd Class,no
+139.0,21.0,Female,2nd Class,yes
+140.0,22.0,Male,3rd Class,
+141.0,21.0,Female,1st Class,
+142.0,20.0,Male,2nd Class,no
+143.0,20.0,Male,,no
+,19.0,Female,1st Class,no
+145.0,20.0,Male,3rd Class,no
+146.0,19.0,Male,1st Class,yes
+,20.0,Female,2nd Class,no
+148.0,18.0,Male,1st Class,no
+149.0,21.0,Female,2nd Class,no
+150.0,19.0,Male,1st Class,no
+151.0,20.0,Male,2nd Class,yes
+152.0,19.0,Female,,
+153.0,,Male,3rd Class,yes
+154.0,22.0,Female,3rd Class,yes
+155.0,21.0,Male,1st Class,no
+156.0,20.0,Female,,
+157.0,20.0,Male,,no
+158.0,19.0,Male,1st Class,yes
+,20.0,Female,3rd Class,no
+160.0,19.0,,,yes
+161.0,19.0,Female,2nd Class,
+162.0,20.0,,2nd Class,yes
+163.0,18.0,Female,3rd Class,no
+164.0,21.0,Male,2nd Class,yes
+165.0,19.0,Male,2nd Class,no
+166.0,20.0,Female,3rd Class,yes
+167.0,19.0,Male,2nd Class,no
+168.0,21.0,Female,2nd Class,yes
+169.0,22.0,Male,3rd Class,no
+170.0,21.0,Female,1st Class,no
+171.0,20.0,Male,2nd Class,no
+172.0,20.0,Male,3rd Class,no
+173.0,19.0,,1st Class,no
+174.0,20.0,,3rd Class,no
+,,Male,1st Class,yes
+176.0,,Female,2nd Class,no
+177.0,18.0,Male,1st Class,no
+178.0,21.0,Female,2nd Class,no
+,19.0,,1st Class,no
+180.0,20.0,Male,2nd Class,yes
+181.0,19.0,Female,3rd Class,yes
+182.0,21.0,Male,3rd Class,yes
+183.0,22.0,Female,3rd Class,yes
+184.0,21.0,Male,1st Class,no
+,20.0,Female,3rd Class,yes
+186.0,20.0,Male,1st Class,no
+187.0,19.0,,1st Class,yes
+188.0,20.0,Female,3rd Class,
+189.0,19.0,Male,1st Class,yes
+190.0,19.0,Female,2nd Class,no
+191.0,20.0,Male,2nd Class,yes
+192.0,18.0,Female,3rd Class,no
+193.0,21.0,Male,2nd Class,yes
+,,,2nd Class,no
+195.0,20.0,Female,3rd Class,yes
+196.0,19.0,Male,,no
+197.0,21.0,Female,2nd Class,yes
+198.0,22.0,Male,3rd Class,no
+199.0,21.0,Female,1st Class,no
+200.0,20.0,Male,2nd Class,no
+201.0,,Male,3rd Class,
+202.0,19.0,Female,1st Class,no
+203.0,20.0,Male,3rd Class,no
+204.0,19.0,Male,1st Class,yes
+205.0,20.0,Female,2nd Class,
+206.0,18.0,,,no
+207.0,21.0,Female,2nd Class,no
+208.0,19.0,Male,1st Class,no
+209.0,20.0,,2nd Class,yes
+210.0,19.0,Female,3rd Class,yes
+211.0,21.0,Male,3rd Class,yes
+212.0,22.0,Female,3rd Class,yes
+213.0,21.0,Male,1st Class,no
+214.0,20.0,Female,3rd Class,yes
+215.0,20.0,Male,1st Class,no
+216.0,19.0,Male,1st Class,yes
+217.0,20.0,Female,3rd Class,no
+,19.0,Male,1st Class,yes
+219.0,19.0,Female,,no
+,20.0,Male,2nd Class,yes
+221.0,18.0,Female,3rd Class,no
+222.0,21.0,Male,2nd Class,yes
+223.0,19.0,Male,2nd Class,no
+224.0,20.0,Female,3rd Class,yes
+225.0,19.0,Male,,
+226.0,21.0,Female,2nd Class,yes
+227.0,22.0,Male,3rd Class,no
+228.0,21.0,Female,1st Class,no
+229.0,20.0,,2nd Class,no
+230.0,20.0,Male,3rd Class,yes
+,,Female,1st Class,yes
+232.0,20.0,,3rd Class,
+1.0,19.0,Male,1st Class,yes
+2.0,20.0,Female,2nd Class,
+3.0,18.0,,,no
+4.0,21.0,Female,2nd Class,no
+5.0,19.0,Male,1st Class,no
+6.0,20.0,Male,2nd Class,yes
+7.0,19.0,Female,3rd Class,yes
+8.0,21.0,Male,3rd Class,yes
+9.0,22.0,,3rd Class,yes
+10.0,,Male,,no
+,20.0,Female,3rd Class,yes
+12.0,,Male,1st Class,no
+13.0,19.0,Male,,yes
+14.0,20.0,Female,3rd Class,no
+,19.0,Male,1st Class,yes
+16.0,19.0,Female,2nd Class,no
+17.0,20.0,Male,2nd Class,
+18.0,18.0,Female,3rd Class,no
+19.0,21.0,Male,2nd Class,yes
+20.0,19.0,Male,2nd Class,no
+21.0,,Female,3rd Class,yes
+22.0,,Male,2nd Class,no
+23.0,21.0,Female,2nd Class,yes
+24.0,22.0,Male,3rd Class,no
+25.0,21.0,Female,1st Class,no
+26.0,20.0,Male,2nd Class,no
+27.0,20.0,Male,3rd Class,no
+,19.0,Female,1st Class,no
+29.0,20.0,Male,3rd Class,no
+30.0,19.0,Male,1st Class,
+31.0,20.0,Female,2nd Class,no
+32.0,18.0,,1st Class,no
+33.0,21.0,Female,,no
+34.0,,Male,1st Class,no
+35.0,20.0,Male,,yes
+36.0,19.0,Female,3rd Class,yes
+37.0,,Male,3rd Class,yes
+38.0,22.0,Female,3rd Class,
+39.0,21.0,Male,1st Class,no
+40.0,20.0,Female,3rd Class,yes
+41.0,20.0,Male,1st Class,no
+42.0,19.0,Male,1st Class,yes
+43.0,20.0,Female,3rd Class,no
+44.0,19.0,Male,1st Class,yes
+,,,2nd Class,no
+46.0,20.0,Male,,
+47.0,18.0,Female,3rd Class,no
+,21.0,Male,2nd Class,yes
+49.0,19.0,,2nd Class,no
+50.0,20.0,,3rd Class,yes
+51.0,19.0,Male,2nd Class,no
+,21.0,Female,2nd Class,yes
+53.0,22.0,Male,3rd Class,no
+54.0,21.0,Female,1st Class,no
+55.0,20.0,Male,2nd Class,no
+56.0,20.0,Male,3rd Class,no
+57.0,19.0,Female,1st Class,no
+58.0,20.0,Male,3rd Class,no
+59.0,19.0,Male,1st Class,yes
+60.0,20.0,Female,2nd Class,no
+61.0,18.0,Male,1st Class,no
+62.0,,Female,,no
+63.0,19.0,Male,1st Class,no
+64.0,,Male,2nd Class,yes
+65.0,19.0,Female,3rd Class,yes
+66.0,21.0,Male,,yes
+67.0,22.0,,,yes
+68.0,,Male,1st Class,no
+69.0,,Female,3rd Class,yes
+70.0,20.0,Male,1st Class,no
+71.0,19.0,Male,1st Class,yes
+72.0,20.0,Female,3rd Class,no
+73.0,19.0,Male,1st Class,yes
+74.0,19.0,Female,2nd Class,
+75.0,20.0,Male,2nd Class,yes
+76.0,18.0,Female,3rd Class,no
+,21.0,Male,2nd Class,yes
+78.0,19.0,Male,2nd Class,no
+79.0,20.0,Female,3rd Class,yes
+80.0,19.0,Male,,no
+81.0,,Female,2nd Class,yes
+82.0,22.0,Male,3rd Class,no
+83.0,21.0,Female,1st Class,no
+84.0,20.0,Male,2nd Class,no
+85.0,20.0,Male,,no
+86.0,19.0,Female,1st Class,no
+87.0,20.0,Male,3rd Class,no
+88.0,19.0,Male,1st Class,yes
+89.0,20.0,Female,2nd Class,no
+90.0,18.0,Male,1st Class,no
+91.0,21.0,Female,2nd Class,no
+92.0,19.0,Male,1st Class,no
+93.0,20.0,Male,,yes
+,19.0,Female,3rd Class,yes
+95.0,,Male,3rd Class,yes
+96.0,22.0,Female,3rd Class,
+97.0,21.0,Male,1st Class,no
+98.0,20.0,Female,3rd Class,yes
+99.0,20.0,Male,1st Class,no
+,19.0,Male,1st Class,yes
+101.0,20.0,Female,3rd Class,no
+102.0,19.0,Male,1st Class,yes
+,19.0,Female,2nd Class,
+104.0,20.0,Male,2nd Class,
+105.0,18.0,Female,3rd Class,no
+106.0,21.0,Male,2nd Class,yes
+,19.0,,2nd Class,no
+108.0,20.0,Female,3rd Class,yes
+109.0,19.0,Male,2nd Class,no
+110.0,21.0,Female,2nd Class,yes
+111.0,22.0,Male,3rd Class,no
+,21.0,Female,1st Class,no
+113.0,20.0,Male,2nd Class,no
+114.0,,Male,3rd Class,no
+115.0,19.0,Female,1st Class,no
+116.0,20.0,Male,,no
+117.0,19.0,Male,,yes
+118.0,20.0,Female,2nd Class,
+119.0,18.0,,1st Class,no
+120.0,21.0,Female,2nd Class,no
+121.0,19.0,Male,1st Class,no
+122.0,20.0,Male,2nd Class,yes
+123.0,,Female,3rd Class,
+124.0,21.0,Male,3rd Class,yes
+125.0,22.0,,3rd Class,yes
+126.0,,Male,1st Class,no
+,20.0,Female,3rd Class,yes
+128.0,20.0,Male,1st Class,no
+129.0,19.0,Male,1st Class,yes
+130.0,20.0,Female,3rd Class,no
+131.0,19.0,,1st Class,yes
+132.0,19.0,Female,2nd Class,
+133.0,20.0,Male,2nd Class,yes
+134.0,18.0,,3rd Class,no
+135.0,,Male,2nd Class,yes
+136.0,19.0,Male,2nd Class,no
+137.0,20.0,Female,3rd Class,
+138.0,19.0,Male,2nd Class,no
+139.0,21.0,Female,2nd Class,yes
+140.0,22.0,Male,3rd Class,
+141.0,21.0,Female,1st Class,
+142.0,20.0,Male,2nd Class,no
+143.0,20.0,Male,,no
+,19.0,Female,1st Class,no
+145.0,20.0,Male,3rd Class,no
+146.0,19.0,Male,1st Class,yes
+,20.0,Female,2nd Class,no
+148.0,18.0,Male,1st Class,no
+149.0,21.0,Female,2nd Class,no
+150.0,19.0,Male,1st Class,no
+151.0,20.0,Male,2nd Class,yes
+152.0,19.0,Female,,
+153.0,,Male,3rd Class,yes
+154.0,22.0,Female,3rd Class,yes
+155.0,21.0,Male,1st Class,no
+156.0,20.0,Female,,
+157.0,20.0,Male,,no
+158.0,19.0,Male,1st Class,yes
+,20.0,Female,3rd Class,no
+160.0,19.0,,,yes
+161.0,19.0,Female,2nd Class,
+162.0,20.0,,2nd Class,yes
+163.0,18.0,Female,3rd Class,no
+164.0,21.0,Male,2nd Class,yes
+165.0,19.0,Male,2nd Class,no
+166.0,20.0,Female,3rd Class,yes
+167.0,19.0,Male,2nd Class,no
+168.0,21.0,Female,2nd Class,yes
+169.0,22.0,Male,3rd Class,no
+170.0,21.0,Female,1st Class,no
+171.0,20.0,Male,2nd Class,no
+172.0,20.0,Male,3rd Class,no
+173.0,19.0,,1st Class,no
+174.0,20.0,,3rd Class,no
+,,Male,1st Class,yes
+176.0,,Female,2nd Class,no
+177.0,18.0,Male,1st Class,no
+178.0,21.0,Female,2nd Class,no
+,19.0,,1st Class,no
+180.0,20.0,Male,2nd Class,yes
+181.0,19.0,Female,3rd Class,yes
+182.0,21.0,Male,3rd Class,yes
+183.0,22.0,Female,3rd Class,yes
+184.0,21.0,Male,1st Class,no
+,20.0,Female,3rd Class,yes
+186.0,20.0,Male,1st Class,no
+187.0,19.0,,1st Class,yes
+188.0,20.0,Female,3rd Class,
+189.0,19.0,Male,1st Class,yes
+190.0,19.0,Female,2nd Class,no
+191.0,20.0,Male,2nd Class,yes
+192.0,18.0,Female,3rd Class,no
+193.0,21.0,Male,2nd Class,yes
+,,,2nd Class,no
+195.0,20.0,Female,3rd Class,yes
+196.0,19.0,Male,,no
+197.0,21.0,Female,2nd Class,yes
+198.0,22.0,Male,3rd Class,no
+199.0,21.0,Female,1st Class,no
+200.0,20.0,Male,2nd Class,no
+201.0,,Male,3rd Class,
+202.0,19.0,Female,1st Class,no
+203.0,20.0,Male,3rd Class,no
+204.0,19.0,Male,1st Class,yes
+205.0,20.0,Female,2nd Class,
+206.0,18.0,,,no
+207.0,21.0,Female,2nd Class,no
+208.0,19.0,Male,1st Class,no
+209.0,20.0,,2nd Class,yes
+210.0,19.0,Female,3rd Class,yes
+211.0,21.0,Male,3rd Class,yes
+212.0,22.0,Female,3rd Class,yes
+213.0,21.0,Male,1st Class,no
+214.0,20.0,Female,3rd Class,yes
+215.0,20.0,Male,1st Class,no
+216.0,19.0,Male,1st Class,yes
+217.0,20.0,Female,3rd Class,no
+,19.0,Male,1st Class,yes
+219.0,19.0,Female,,no
+,20.0,Male,2nd Class,yes
+221.0,18.0,Female,3rd Class,no
+222.0,21.0,Male,2nd Class,yes
+223.0,19.0,Male,2nd Class,no
+224.0,20.0,Female,3rd Class,yes
+225.0,19.0,Male,,
+226.0,21.0,Female,2nd Class,yes
+227.0,22.0,Male,3rd Class,no
+228.0,21.0,Female,1st Class,no
+229.0,20.0,,2nd Class,no
+230.0,20.0,Male,3rd Class,yes
+,,Female,1st Class,yes
+232.0,20.0,,3rd Class,
